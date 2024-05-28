@@ -1,4 +1,4 @@
-#Welcome folks to my profile:
+Welcome folks to my profile:
 - 👋 Hi, I’m @kartikey-gaur
 - 👀 I’m interested in Software Development, love to do competitive programming
 - 🌱 I’m currently learning ...
